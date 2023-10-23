@@ -1,0 +1,3 @@
+node_modules
+grafbase/generated
+grafbase/**/*.js
